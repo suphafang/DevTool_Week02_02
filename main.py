@@ -1,4 +1,4 @@
 def main():
-  print("Hello New York, USA!")
+  print("Hello Bangkok, Thailand!")
   
 main()
